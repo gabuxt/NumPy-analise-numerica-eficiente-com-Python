@@ -20,13 +20,14 @@ Neste projeto, explorei os recursos poderosos do Numpy, uma biblioteca fundament
 
 O projeto abrange os seguintes tópicos relacionados ao Numpy:
 
-Criação de arrays Numpy
-Indexação e fatiamento de arrays
-Remodelagem e redimensionamento de arrays
-Operações matemáticas básicas
-Funções estatísticas
-Broadcasting
-Entrada/saída de arquivos
+* Criação de arrays Numpy
+* Indexação e fatiamento de arrays
+* Remodelagem e redimensionamento de arrays
+* Operações matemáticas básicas
+* Funções estatísticas
+* Broadcasting
+* Entrada/saída de arquivos
+
 Ao trabalhar no notebook Jupyter fornecido, adquiri experiência prática com esses comandos e funções essenciais do Numpy, amplamente utilizados em ciência de dados, aprendizado de máquina e análise numérica.
 
 ## Descrição dos Arquivos<a name="files"></a>
