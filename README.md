@@ -2,7 +2,7 @@
 
 Este repositório contém um projeto que concluí como parte de um curso de ciência de dados. O projeto teve como objetivo familiarizar-me com os comandos e funções fundamentais da biblioteca Numpy em Python.
 
-### Table of Contents
+### Tabela de Conteúdos 
 
 1. [Instalação](#installation)
 2. [Descrição do Projeto](#motivation)
